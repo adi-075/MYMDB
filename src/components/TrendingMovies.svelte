@@ -5,7 +5,7 @@
 
 <div class="bg-black/95 p-6">
 	<div>
-		<h1 class="text-gray-50 text-2xl px-7 md:px-7 font-extrabold mt-6">Trending Movies</h1>
+		<h1 class="text-gray-50 text-2xl px-6 md:px-7 font-extrabold mt-6">Trending Movies</h1>
 		<div class="upcoming-movies drop-shadow-md">
 			{#each trendingMovies as movie}
 				<MovieCard {movie} />
