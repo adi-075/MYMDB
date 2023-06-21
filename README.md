@@ -13,7 +13,7 @@ All commands are run from the root of the project, from a terminal:
 | `yarn dev --open`      | Opens local dev server in browser                |
 | `yarn build`           | Build your production site                       |
 
-## Preview of the Application
+## Preview 
 
 <!-- ![Screenshot](https://raw.githubusercontent.com/adi-075/MYMDB/main/images/Screenshot.png?token=GHSAT0AAAAAAB4QOYXQG2NMMQIBACMMIQN6ZETEFCA "A Screenshot") -->
 
